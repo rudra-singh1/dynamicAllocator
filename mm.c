@@ -1,10 +1,4 @@
 /*
- * CSE 351 Lab 5 (Dynamic Storage Allocator)
- *
- * Name(s): Rudra Prakash Singh  
- * NetID(s): rsingh34
- *
- * NOTES:
  *  - Explicit allocator with an explicit free-list
  *  - Free-list uses a single, doubly-linked list with LIFO insertion policy,
  *    first-fit search strategy, and immediate coalescing.
